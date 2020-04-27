@@ -1,0 +1,134 @@
+GENBANK_ACCESSION	Name	Species
+AF222927	SAM domain, SH3 domain and nuclear localization signals 1(SAMSN1)	Homo sapiens
+AF218085	SAM domain, SH3 domain and nuclear localization signals 1(SAMSN1)	Homo sapiens
+AF519621	SAM domain, SH3 domain and nuclear localization signals 1(SAMSN1)	Homo sapiens
+BC029112	SAM domain, SH3 domain and nuclear localization signals 1(SAMSN1)	Homo sapiens
+NM_022136	SAM domain, SH3 domain and nuclear localization signals 1(SAMSN1)	Homo sapiens
+NM_001142678	anoctamin 6(ANO6)	Homo sapiens
+NM_001025356	anoctamin 6(ANO6)	Homo sapiens
+BC098410	anoctamin 6(ANO6)	Homo sapiens
+NM_001142679	anoctamin 6(ANO6)	Homo sapiens
+BC032783	glycoprotein nmb(GPNMB)	Homo sapiens
+NM_002510	glycoprotein nmb(GPNMB)	Homo sapiens
+NM_001005340	glycoprotein nmb(GPNMB)	Homo sapiens
+AY544121	alkylglycerone phosphate synthase(AGPS)	Homo sapiens
+NM_003659	alkylglycerone phosphate synthase(AGPS)	Homo sapiens
+BC098358	solute carrier family 4 member 1 adaptor protein(SLC4A1AP)	Homo sapiens
+NM_018158	solute carrier family 4 member 1 adaptor protein(SLC4A1AP)	Homo sapiens
+NM_032558	major facilitator superfamily domain containing 14B(MFSD14B)	Homo sapiens
+BC106062	major facilitator superfamily domain containing 14B(MFSD14B)	Homo sapiens
+NM_005662	voltage dependent anion channel 3(VDAC3)	Homo sapiens
+NM_001135694	voltage dependent anion channel 3(VDAC3)	Homo sapiens
+BC056870	voltage dependent anion channel 3(VDAC3)	Homo sapiens
+BX641141	BMS1, ribosome biogenesis factor pseudogene 20(BMS1P20)	Homo sapiens
+NR_027293	BMS1, ribosome biogenesis factor pseudogene 20(BMS1P20)	Homo sapiens
+NM_002046	glyceraldehyde-3-phosphate dehydrogenase(GAPDH)	Homo sapiens
+X01677	glyceraldehyde-3-phosphate dehydrogenase(GAPDH)	Homo sapiens
+BC043345	BMS1, ribosome biogenesis factor(BMS1)	Homo sapiens
+AF097514	stearoyl-CoA desaturase(SCD)	Homo sapiens
+NM_005063	stearoyl-CoA desaturase(SCD)	Homo sapiens
+NM_024312	N-acetylglucosamine-1-phosphate transferase alpha and beta subunits(GNPTAB)	Homo sapiens
+AY687932	N-acetylglucosamine-1-phosphate transferase alpha and beta subunits(GNPTAB)	Homo sapiens
+NM_003407	ZFP36 ring finger protein(ZFP36)	Homo sapiens
+M92843	ZFP36 ring finger protein(ZFP36)	Homo sapiens
+NM_004939	DEAD-box helicase 1(DDX1)	Homo sapiens
+X70649	DEAD-box helicase 1(DDX1)	Homo sapiens
+U02020	nicotinamide phosphoribosyltransferase(NAMPT)	Homo sapiens
+NM_005746	nicotinamide phosphoribosyltransferase(NAMPT)	Homo sapiens
+BX647931	MIR4435-2 host gene(MIR4435-2HG)	Homo sapiens
+NR_024373	MIR4435-2 host gene(MIR4435-2HG)	Homo sapiens
+NR_015395	MIR4435-2 host gene(MIR4435-2HG)	Homo sapiens
+NR_027783	spermidine/spermine N1-acetyltransferase 1(SAT1)	Homo sapiens
+NM_002970	spermidine/spermine N1-acetyltransferase 1(SAT1)	Homo sapiens
+BC008424	spermidine/spermine N1-acetyltransferase 1(SAT1)	Homo sapiens
+NM_153201	heat shock protein family A (Hsp70) member 8(HSPA8)	Homo sapiens
+NM_006597	heat shock protein family A (Hsp70) member 8(HSPA8)	Homo sapiens
+AF352832	heat shock protein family A (Hsp70) member 8(HSPA8)	Homo sapiens
+BC026093	ADP ribosylation factor like GTPase 15(ARL15)	Homo sapiens
+NM_019087	ADP ribosylation factor like GTPase 15(ARL15)	Homo sapiens
+AK292316	caseinolytic mitochondrial matrix peptidase chaperone subunit(CLPX)	Homo sapiens
+NM_006660	caseinolytic mitochondrial matrix peptidase chaperone subunit(CLPX)	Homo sapiens
+M26311	S100 calcium binding protein A9(S100A9)	Homo sapiens
+NM_002965	S100 calcium binding protein A9(S100A9)	Homo sapiens
+BC117481	iron responsive element binding protein 2(IREB2)	Homo sapiens
+NM_004136	iron responsive element binding protein 2(IREB2)	Homo sapiens
+AB014771	MOP-1(MOP-1)	Homo sapiens
+AK093305	MPV17, mitochondrial inner membrane protein(MPV17)	Homo sapiens
+NM_002437	MPV17, mitochondrial inner membrane protein(MPV17)	Homo sapiens
+BC001115	MPV17, mitochondrial inner membrane protein(MPV17)	Homo sapiens
+AK123373	MPV17, mitochondrial inner membrane protein(MPV17)	Homo sapiens
+AF088036	MPV17, mitochondrial inner membrane protein(MPV17)	Homo sapiens
+NM_145918	cathepsin L(CTSL)	Homo sapiens
+AK055599	cathepsin L(CTSL)	Homo sapiens
+NM_001912	cathepsin L(CTSL)	Homo sapiens
+NM_014206	transmembrane protein 258(TMEM258)	Homo sapiens
+AF086763	transmembrane protein 258(TMEM258)	Homo sapiens
+NM_182762	MACC1, MET transcriptional regulator(MACC1)	Homo sapiens
+BC137090	MACC1, MET transcriptional regulator(MACC1)	Homo sapiens
+NM_020117	leucyl-tRNA synthetase(LARS)	Homo sapiens
+BC152422	leucyl-tRNA synthetase(LARS)	Homo sapiens
+BC005080	immediate early response 3(IER3)	Homo sapiens
+AF039067	immediate early response 3(IER3)	Homo sapiens
+AF083421	immediate early response 3(IER3)	Homo sapiens
+NM_003897	immediate early response 3(IER3)	Homo sapiens
+BT006703	immediate early response 3(IER3)	Homo sapiens
+BC000844	immediate early response 3(IER3)	Homo sapiens
+S73591	thioredoxin interacting protein(TXNIP)	Homo sapiens
+NM_006472	thioredoxin interacting protein(TXNIP)	Homo sapiens
+NM_004417	dual specificity phosphatase 1(DUSP1)	Homo sapiens
+BC022463	dual specificity phosphatase 1(DUSP1)	Homo sapiens
+M60257	prosaposin(PSAP)	Homo sapiens
+NM_001042466	prosaposin(PSAP)	Homo sapiens
+NM_002778	prosaposin(PSAP)	Homo sapiens
+NM_001042465	prosaposin(PSAP)	Homo sapiens
+NM_001010883	family with sequence similarity 102 member B(FAM102B)	Homo sapiens
+BC140863	family with sequence similarity 102 member B(FAM102B)	Homo sapiens
+NM_006082	tubulin alpha 1b(TUBA1B)	Homo sapiens
+DQ400107	tubulin alpha 1b(TUBA1B)	Homo sapiens
+NM_005239	ETS proto-oncogene 2, transcription factor(ETS2)	Homo sapiens
+BC042954	ETS proto-oncogene 2, transcription factor(ETS2)	Homo sapiens
+NM_006931	solute carrier family 2 member 3(SLC2A3)	Homo sapiens
+AB209607	solute carrier family 2 member 3(SLC2A3)	Homo sapiens
+NM_017925	DENN domain containing 4C(DENND4C)	Homo sapiens
+BC144484	DENN domain containing 4C(DENND4C)	Homo sapiens
+NR_002715	RNA, 7SL, cytoplasmic 1(RN7SL1)	Homo sapiens
+BC070202	cytoskeleton regulator RNA(CYTOR)	Homo sapiens
+NR_024206	cytoskeleton regulator RNA(CYTOR)	Homo sapiens
+NR_024205	cytoskeleton regulator RNA(CYTOR)	Homo sapiens
+NR_024204	cytoskeleton regulator RNA(CYTOR)	Homo sapiens
+NM_001190995	importin 8(IPO8)	Homo sapiens
+NM_006390	importin 8(IPO8)	Homo sapiens
+U77494	importin 8(IPO8)	Homo sapiens
+BC065012	THO complex 7(THOC7)	Homo sapiens
+NM_025075	THO complex 7(THOC7)	Homo sapiens
+AK128476	immunoglobulin heavy constant alpha 1(IGHA1)	Homo sapiens
+AF034607	chloride intracellular channel 1(CLIC1)	Homo sapiens
+NM_001288	chloride intracellular channel 1(CLIC1)	Homo sapiens
+BC073782	immunoglobulin heavy constant gamma 1 (G1m marker)(IGHG1)	Homo sapiens
+BC065192	RNA binding motif single stranded interacting protein 1(RBMS1)	Homo sapiens
+NM_002897	RNA binding motif single stranded interacting protein 1(RBMS1)	Homo sapiens
+NM_016836	RNA binding motif single stranded interacting protein 1(RBMS1)	Homo sapiens
+X02067	RNA, 7SL, cytoplasmic 2(RN7SL2)	Homo sapiens
+NR_027260	RNA, 7SL, cytoplasmic 2(RN7SL2)	Homo sapiens
+NM_033554	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+BC009956	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+AK292709	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+AB209058	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+M27487	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+BC060762	phosphodiesterase 8A(PDE8A)	Homo sapiens
+NM_173454	phosphodiesterase 8A(PDE8A)	Homo sapiens
+NM_002605	phosphodiesterase 8A(PDE8A)	Homo sapiens
+U35431	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+NM_002116	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+AK301019	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+BC003069	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+NM_002543	oxidized low density lipoprotein receptor 1(OLR1)	Homo sapiens
+AB010710	oxidized low density lipoprotein receptor 1(OLR1)	Homo sapiens
+NM_001172633	oxidized low density lipoprotein receptor 1(OLR1)	Homo sapiens
+NM_001172632	oxidized low density lipoprotein receptor 1(OLR1)	Homo sapiens
+BC018538	arachidonate 5-lipoxygenase activating protein(ALOX5AP)	Homo sapiens
+NM_001629	arachidonate 5-lipoxygenase activating protein(ALOX5AP)	Homo sapiens
+	BC020638		
+	U83416		
+	AK311549		
+	X81730		

@@ -1,0 +1,617 @@
+GENBANK_ACCESSION	Name	Species
+AK290142	neuroblastoma breakpoint family member 15(NBPF15)	Homo sapiens
+NM_001102663	neuroblastoma breakpoint family member 15(NBPF15)	Homo sapiens
+AK290302	neuroblastoma breakpoint family member 15(NBPF15)	Homo sapiens
+BC023087	neuroblastoma breakpoint family member 15(NBPF15)	Homo sapiens
+AY894566	neuroblastoma breakpoint family member 15(NBPF15)	Homo sapiens
+AK299360	neuroblastoma breakpoint family member 15(NBPF15)	Homo sapiens
+NM_173638	neuroblastoma breakpoint family member 15(NBPF15)	Homo sapiens
+M33195	Fc fragment of IgE receptor Ig(FCER1G)	Homo sapiens
+NM_004106	Fc fragment of IgE receptor Ig(FCER1G)	Homo sapiens
+NM_002510	glycoprotein nmb(GPNMB)	Homo sapiens
+BC032783	glycoprotein nmb(GPNMB)	Homo sapiens
+NM_001005340	glycoprotein nmb(GPNMB)	Homo sapiens
+NM_139286	cell division cycle 26(CDC26)	Homo sapiens
+BC066300	cell division cycle 26(CDC26)	Homo sapiens
+NM_004048	beta-2-microglobulin(B2M)	Homo sapiens
+BC032589	beta-2-microglobulin(B2M)	Homo sapiens
+AK096147	small nucleolar RNA, H/ACA box 33(SNORA33)	Homo sapiens
+NM_173177	C1D nuclear receptor corepressor(C1D)	Homo sapiens
+NM_006333	C1D nuclear receptor corepressor(C1D)	Homo sapiens
+AK290451	C1D nuclear receptor corepressor(C1D)	Homo sapiens
+NM_001190263	C1D nuclear receptor corepressor(C1D)	Homo sapiens
+NM_001190265	C1D nuclear receptor corepressor(C1D)	Homo sapiens
+NM_006332	IFI30, lysosomal thiol reductase(IFI30)	Homo sapiens
+BC021136	IFI30, lysosomal thiol reductase(IFI30)	Homo sapiens
+NR_003033	small nucleolar RNA, C/D box 5(SNORD5)	Homo sapiens
+AK292282	glycerol kinase 3 pseudogene(GK3P)	Homo sapiens
+NR_026575	glycerol kinase 3 pseudogene(GK3P)	Homo sapiens
+NM_006597	heat shock protein family A (Hsp70) member 8(HSPA8)	Homo sapiens
+AF352832	heat shock protein family A (Hsp70) member 8(HSPA8)	Homo sapiens
+NM_153201	heat shock protein family A (Hsp70) member 8(HSPA8)	Homo sapiens
+NM_001128127	glycerol kinase(GK)	Homo sapiens
+NM_000167	glycerol kinase(GK)	Homo sapiens
+BC042421	glycerol kinase(GK)	Homo sapiens
+BC037549	glycerol kinase(GK)	Homo sapiens
+NM_203391	glycerol kinase(GK)	Homo sapiens
+AK090618	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+BC013428	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+AF193045	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+AB257295	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+BC026348	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+NM_022152	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+AK298123	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+AK298500	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+AK300597	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+BC007980	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+AK093911	transmembrane BAX inhibitor motif containing 1(TMBIM1)	Homo sapiens
+NM_005348	heat shock protein 90 alpha family class A member 1(HSP90AA1)	Homo sapiens
+BC121062	heat shock protein 90 alpha family class A member 1(HSP90AA1)	Homo sapiens
+NM_001017963	heat shock protein 90 alpha family class A member 1(HSP90AA1)	Homo sapiens
+BC042755	regulator of G-protein signaling 2(RGS2)	Homo sapiens
+NM_002923	regulator of G-protein signaling 2(RGS2)	Homo sapiens
+AY894574	neuroblastoma breakpoint family member 9(NBPF9)	Homo sapiens
+AK294414	neuroblastoma breakpoint family member 9(NBPF9)	Homo sapiens
+AK095030	neuroblastoma breakpoint family member 9(NBPF9)	Homo sapiens
+BC020249	F-box protein 25(FBXO25)	Homo sapiens
+NR_002569	small Cajal body-specific RNA 9(SCARNA9)	Homo sapiens
+BC098435	Y-box binding protein 1(YBX1)	Homo sapiens
+NM_004559	Y-box binding protein 1(YBX1)	Homo sapiens
+NM_001101	actin beta(ACTB)	Homo sapiens
+BC001301	actin beta(ACTB)	Homo sapiens
+BC004251	actin beta(ACTB)	Homo sapiens
+DQ471327	actin beta(ACTB)	Homo sapiens
+BC002409	actin beta(ACTB)	Homo sapiens
+BC013380	actin beta(ACTB)	Homo sapiens
+BC016045	actin beta(ACTB)	Homo sapiens
+BC014861	actin beta(ACTB)	Homo sapiens
+AK301372	actin beta(ACTB)	Homo sapiens
+AK316361	actin beta(ACTB)	Homo sapiens
+AK304552	actin beta(ACTB)	Homo sapiens
+AK131444	WD repeat domain 88(WDR88)	Homo sapiens
+NM_021109	thymosin beta 4, X-linked(TMSB4X)	Homo sapiens
+BC128102	thymosin beta 4, X-linked(TMSB4X)	Homo sapiens
+BC139925	thymosin beta 4, X-linked(TMSB4X)	Homo sapiens
+BC107789	thymosin beta 4, X-linked(TMSB4X)	Homo sapiens
+BC151215	thymosin beta 4, X-linked(TMSB4X)	Homo sapiens
+BC104197	thymosin beta 4, X-linked pseudogene 2(TMSB4XP2)	Homo sapiens
+NM_194247	heterogeneous nuclear ribonucleoprotein A3(HNRNPA3)	Homo sapiens
+AY363225	heterogeneous nuclear ribonucleoprotein A3(HNRNPA3)	Homo sapiens
+BC107601	cyclin dependent kinase 8(CDK8)	Homo sapiens
+NM_001260	cyclin dependent kinase 8(CDK8)	Homo sapiens
+NM_001100427	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+AK297543	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+NM_001100428	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+NM_001100429	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+BC098334	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+BC001851	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+AF215923	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+BC098269	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+AF237413	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+NM_021159	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+NM_001100430	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+BT006837	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+NM_001100426	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+AY376900	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+BC001816	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+AK295156	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+BC099845	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+BC099708	Rap1 GTPase-GDP dissociation stimulator 1(RAP1GDS1)	Homo sapiens
+AF059618	COMM domain containing 2(COMMD2)	Homo sapiens
+NM_016094	COMM domain containing 2(COMMD2)	Homo sapiens
+NR_024437	uncharacterized LOC728323(LOC728323)	Homo sapiens
+AK298283	uncharacterized LOC728323(LOC728323)	Homo sapiens
+NM_001024466	superoxide dismutase 2, mitochondrial(SOD2)	Homo sapiens
+BC012423	superoxide dismutase 2, mitochondrial(SOD2)	Homo sapiens
+NM_000636	superoxide dismutase 2, mitochondrial(SOD2)	Homo sapiens
+NM_001024465	superoxide dismutase 2, mitochondrial(SOD2)	Homo sapiens
+BC112282	thymosin beta 4, X-linked pseudogene 6(TMSB4XP6)	Homo sapiens
+AK095459	neuroblastoma breakpoint family member 14(NBPF14)	Homo sapiens
+BC065192	RNA binding motif single stranded interacting protein 1(RBMS1)	Homo sapiens
+NM_002897	RNA binding motif single stranded interacting protein 1(RBMS1)	Homo sapiens
+NM_016836	RNA binding motif single stranded interacting protein 1(RBMS1)	Homo sapiens
+NM_001042500	defensin alpha 1B(DEFA1B)	Homo sapiens
+NM_002065	glutamate-ammonia ligase(GLUL)	Homo sapiens
+NM_001033056	glutamate-ammonia ligase(GLUL)	Homo sapiens
+BC011700	glutamate-ammonia ligase(GLUL)	Homo sapiens
+NM_001033044	glutamate-ammonia ligase(GLUL)	Homo sapiens
+AY894573	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AY894563	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AY894561	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AY894567	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AY894571	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AY894562	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AY894569	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AY894572	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+BC086308	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AY894568	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AY894570	neuroblastoma breakpoint family member 8(NBPF8)	Homo sapiens
+AK131040	uncharacterized LOC388022(LOC388022)	Homo sapiens
+AY423734	SH3 domain containing kinase binding protein 1(SH3KBP1)	Homo sapiens
+NM_006761	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon(YWHAE)	Homo sapiens
+AY883089	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon(YWHAE)	Homo sapiens
+NR_024058	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon(YWHAE)	Homo sapiens
+NM_003937	kynureninase(KYNU)	Homo sapiens
+U57721	kynureninase(KYNU)	Homo sapiens
+NM_001032998	kynureninase(KYNU)	Homo sapiens
+BC098358	solute carrier family 4 member 1 adaptor protein(SLC4A1AP)	Homo sapiens
+NM_018158	solute carrier family 4 member 1 adaptor protein(SLC4A1AP)	Homo sapiens
+AK290098	M-phase specific PLK1 interacting protein(MPLKIP)	Homo sapiens
+AK057879	solute carrier family 17 member 7(SLC17A7)	Homo sapiens
+NR_029493	microRNA 21(MIR21)	Homo sapiens
+AY699265	microRNA 21(MIR21)	Homo sapiens
+BC020891	major histocompatibility complex, class I, J (pseudogene)(HLA-J)	Homo sapiens
+NR_024240	major histocompatibility complex, class I, J (pseudogene)(HLA-J)	Homo sapiens
+L13388	platelet activating factor acetylhydrolase 1b regulatory subunit 1(PAFAH1B1)	Homo sapiens
+NR_003369	RRN3 homolog, RNA polymerase I transcription factor pseudogene 2(RRN3P2)	Homo sapiens
+AK301253	RRN3 homolog, RNA polymerase I transcription factor pseudogene 2(RRN3P2)	Homo sapiens
+AK298442	RRN3 homolog, RNA polymerase I transcription factor pseudogene 2(RRN3P2)	Homo sapiens
+AF086539	Sec61 translocon gamma subunit(SEC61G)	Homo sapiens
+NM_014302	Sec61 translocon gamma subunit(SEC61G)	Homo sapiens
+NM_001012456	Sec61 translocon gamma subunit(SEC61G)	Homo sapiens
+NM_004136	iron responsive element binding protein 2(IREB2)	Homo sapiens
+BC117481	iron responsive element binding protein 2(IREB2)	Homo sapiens
+BC028382	vacuolar protein sorting 45 homolog(VPS45)	Homo sapiens
+NM_007259	vacuolar protein sorting 45 homolog(VPS45)	Homo sapiens
+AK295639	neuroblastoma breakpoint family member 19(NBPF19)	Homo sapiens
+AK292666	neuroblastoma breakpoint family member 19(NBPF19)	Homo sapiens
+CR936830	neuroblastoma breakpoint family member 19(NBPF19)	Homo sapiens
+BC015516	serglycin(SRGN)	Homo sapiens
+NM_002727	serglycin(SRGN)	Homo sapiens
+NM_001625	adenylate kinase 2(AK2)	Homo sapiens
+BC090040	adenylate kinase 2(AK2)	Homo sapiens
+NM_013411	adenylate kinase 2(AK2)	Homo sapiens
+NM_001004333	ribonuclease K(RNASEK)	Homo sapiens
+BC051802	ribonuclease K(RNASEK)	Homo sapiens
+NM_001826	CDC28 protein kinase regulatory subunit 1B(CKS1B)	Homo sapiens
+BT007196	CDC28 protein kinase regulatory subunit 1B(CKS1B)	Homo sapiens
+AK299612	neuroblastoma breakpoint family member 20(NBPF20)	Homo sapiens
+BC028604	Ski2 like RNA helicase 2(SKIV2L2)	Homo sapiens
+NM_015360	Ski2 like RNA helicase 2(SKIV2L2)	Homo sapiens
+NM_014485	hematopoietic prostaglandin D synthase(HPGDS)	Homo sapiens
+D82073	hematopoietic prostaglandin D synthase(HPGDS)	Homo sapiens
+NM_006931	solute carrier family 2 member 3(SLC2A3)	Homo sapiens
+AB209607	solute carrier family 2 member 3(SLC2A3)	Homo sapiens
+NM_006773	DEAD-box helicase 18(DDX18)	Homo sapiens
+BC024739	DEAD-box helicase 18(DDX18)	Homo sapiens
+NR_002715	RNA, 7SL, cytoplasmic 1(RN7SL1)	Homo sapiens
+NM_005217	defensin alpha 3(DEFA3)	Homo sapiens
+BC119706	defensin alpha 3(DEFA3)	Homo sapiens
+BC081560	H3 histone, family 3A, pseudogene 4(H3F3AP4)	Homo sapiens
+NR_002315	H3 histone, family 3A, pseudogene 4(H3F3AP4)	Homo sapiens
+NM_003542	histone cluster 1 H4 family member c(HIST1H4C)	Homo sapiens
+BC130558	histone cluster 1 H4 family member c(HIST1H4C)	Homo sapiens
+NM_004084	defensin alpha 1(DEFA1)	Homo sapiens
+BC069423	defensin alpha 1(DEFA1)	Homo sapiens
+M26602	defensin alpha 1(DEFA1)	Homo sapiens
+U41515	split hand/foot malformation (ectrodactyly) type 1(SHFM1)	Homo sapiens
+NM_006304	split hand/foot malformation (ectrodactyly) type 1(SHFM1)	Homo sapiens
+BC008403	major histocompatibility complex, class II, DR beta 1(HLA-DRB1)	Homo sapiens
+M26038	major histocompatibility complex, class II, DR beta 1(HLA-DRB1)	Homo sapiens
+BC007920	major histocompatibility complex, class II, DR beta 1(HLA-DRB1)	Homo sapiens
+M11867	major histocompatibility complex, class II, DR beta 1(HLA-DRB1)	Homo sapiens
+AK297032	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+M60333	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+M60334	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+AK304429	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+AK301190	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+NM_019111	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+BC032350	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+BC071659	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+AK301134	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+CR457013	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+AK301354	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens
+X58061	small nucleolar RNA, C/D box 13 pseudogene 1(SNORD13P1)	Homo sapiens
+NM_001444	fatty acid binding protein 5(FABP5)	Homo sapiens
+BC070303	fatty acid binding protein 5(FABP5)	Homo sapiens
+AK225690	major histocompatibility complex, class II, DR beta 4(HLA-DRB4)	Homo sapiens
+AK293020	major histocompatibility complex, class II, DR beta 4(HLA-DRB4)	Homo sapiens
+NM_022555	major histocompatibility complex, class II, DR beta 3(HLA-DRB3)	Homo sapiens
+BC008987	major histocompatibility complex, class II, DR beta 3(HLA-DRB3)	Homo sapiens
+NM_138792	LEO1 homolog, Paf1/RNA polymerase II complex component(LEO1)	Homo sapiens
+AY302186	LEO1 homolog, Paf1/RNA polymerase II complex component(LEO1)	Homo sapiens
+X02067	RNA, 7SL, cytoplasmic 2(RN7SL2)	Homo sapiens
+NR_027260	RNA, 7SL, cytoplasmic 2(RN7SL2)	Homo sapiens
+AK292709	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+NM_033554	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+BC009956	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+M27487	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+AB209058	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens
+BC125044	major histocompatibility complex, class II, DQ alpha 1(HLA-DQA1)	Homo sapiens
+NM_002122	major histocompatibility complex, class II, DQ alpha 1(HLA-DQA1)	Homo sapiens
+BC028919	transducer of ERBB2, 2(TOB2)	Homo sapiens
+L37881	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D50294	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M77774	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L17005	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D31816	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M75138	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U29057	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L22028	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U29083	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U29480	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L42345	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AF189017	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M77778	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M84384	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U35734	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AF026218	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U14943	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M84382	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U03698	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U88407	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L24373	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L20089	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D25275	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AK026595	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L04695	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U31971	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AK300685	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U38800	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U75533	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M32317	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L41214	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M84694	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U74386	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D50299	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L07743	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M12678	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U70528	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D85761	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L22027	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M84380	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U03027	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M84385	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U80945	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U21053	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M84381	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D50300	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L11603	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U16309	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L11666	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U04245	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M84383	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U30936	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+BC007243	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D83043	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+Y13029	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D50291	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U21052	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M81798	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U36392	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AF130734	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L33922	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+BC091497	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D50296	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AK292226	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L19937	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U01848	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U64801	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M32320	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U50710	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M24033	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U04243	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D85762	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M77776	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U30904	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M32319	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L37880	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AK303541	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U35431	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M77775	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L07950	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M16102	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U70529	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U17107	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AF016641	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U36492	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M32318	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U04244	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AB008102	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M77777	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+BC013187	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+NM_005514	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AK124160	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U03859	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L38504	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L36318	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L36591	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AK301008	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D50290	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AK130169	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AF428252	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U63653	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L09736	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U09912	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AF170577	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AK130654	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AF389378	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L11604	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L42024	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D50292	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U06862	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L32862	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U09864	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U57966	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L09735	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L04696	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AK290570	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U04787	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D87665	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L19923	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D50293	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M28205	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+U40498	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+D50295	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L41925	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+L15005	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+AY007140	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens
+M26429	major histocompatibility complex, class I, C(HLA-C)	Homo sapiens
+M26430	major histocompatibility complex, class I, C(HLA-C)	Homo sapiens
+BC002463	major histocompatibility complex, class I, C(HLA-C)	Homo sapiens
+D12471	major histocompatibility complex, class I, C(HLA-C)	Homo sapiens
+M24097	major histocompatibility complex, class I, C(HLA-C)	Homo sapiens
+M28160	major histocompatibility complex, class I, C(HLA-C)	Homo sapiens
+NM_002116	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+AK301019	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+BC003069	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+D32129	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+D32131	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+DQ327720	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+BC008611	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+M84375	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens
+BC028674	eukaryotic translation elongation factor 1 alpha 1(EEF1A1)	Homo sapiens
+NM_001402	eukaryotic translation elongation factor 1 alpha 1(EEF1A1)	Homo sapiens
+AY780790	protein geranylgeranyltransferase type I subunit beta(PGGT1B)	Homo sapiens
+NM_005023	protein geranylgeranyltransferase type I subunit beta(PGGT1B)	Homo sapiens
+NM_000239	lysozyme(LYZ)	Homo sapiens
+AK130149	lysozyme(LYZ)	Homo sapiens
+AY544121	alkylglycerone phosphate synthase(AGPS)	Homo sapiens
+NM_003659	alkylglycerone phosphate synthase(AGPS)	Homo sapiens
+BC033866	carboxypeptidase E(CPE)	Homo sapiens
+NM_001873	carboxypeptidase E(CPE)	Homo sapiens
+BC098396	MAX dimerization protein 1(MXD1)	Homo sapiens
+NM_002357	MAX dimerization protein 1(MXD1)	Homo sapiens
+AF097514	stearoyl-CoA desaturase(SCD)	Homo sapiens
+NM_005063	stearoyl-CoA desaturase(SCD)	Homo sapiens
+AY894564	neuroblastoma breakpoint family member 3(NBPF3)	Homo sapiens
+AK095602	neuroblastoma breakpoint family member 3(NBPF3)	Homo sapiens
+AK292580	neuroblastoma breakpoint family member 3(NBPF3)	Homo sapiens
+NM_032264	neuroblastoma breakpoint family member 3(NBPF3)	Homo sapiens
+AK299840	neuroblastoma breakpoint family member 3(NBPF3)	Homo sapiens
+BC024011	neuroblastoma breakpoint family member 3(NBPF3)	Homo sapiens
+AY598326	neuroblastoma breakpoint family member 3(NBPF3)	Homo sapiens
+NM_079423	myosin light chain 6(MYL6)	Homo sapiens
+BC017455	myosin light chain 6(MYL6)	Homo sapiens
+NM_021019	myosin light chain 6(MYL6)	Homo sapiens
+D50063	proteasome 26S subunit, non-ATPase 7(PSMD7)	Homo sapiens
+NM_002811	proteasome 26S subunit, non-ATPase 7(PSMD7)	Homo sapiens
+NM_004374	cytochrome c oxidase subunit 6C(COX6C)	Homo sapiens
+BC000187	cytochrome c oxidase subunit 6C(COX6C)	Homo sapiens
+NM_004877	glia maturation factor gamma(GMFG)	Homo sapiens
+BC093799	glia maturation factor gamma(GMFG)	Homo sapiens
+BC001429	annexin A5(ANXA5)	Homo sapiens
+NM_001154	annexin A5(ANXA5)	Homo sapiens
+BX647931	MIR4435-2 host gene(MIR4435-2HG)	Homo sapiens
+NR_024373	MIR4435-2 host gene(MIR4435-2HG)	Homo sapiens
+NR_015395	MIR4435-2 host gene(MIR4435-2HG)	Homo sapiens
+NR_027783	spermidine/spermine N1-acetyltransferase 1(SAT1)	Homo sapiens
+NM_002970	spermidine/spermine N1-acetyltransferase 1(SAT1)	Homo sapiens
+BC008424	spermidine/spermine N1-acetyltransferase 1(SAT1)	Homo sapiens
+NR_003370	RRN3 homolog, RNA polymerase I transcription factor pseudogene 1(RRN3P1)	Homo sapiens
+BC068999	RRN3 homolog, RNA polymerase I transcription factor pseudogene 1(RRN3P1)	Homo sapiens
+NM_181690	AKT serine/threonine kinase 3(AKT3)	Homo sapiens
+NM_005465	AKT serine/threonine kinase 3(AKT3)	Homo sapiens
+AY005799	AKT serine/threonine kinase 3(AKT3)	Homo sapiens
+NM_002966	S100 calcium binding protein A10(S100A10)	Homo sapiens
+BC105786	S100 calcium binding protein A10(S100A10)	Homo sapiens
+NR_001445	RNA, 7SK small nuclear(RN7SK)	Homo sapiens
+NM_005620	S100 calcium binding protein A11(S100A11)	Homo sapiens
+D38583	S100 calcium binding protein A11(S100A11)	Homo sapiens
+AY258285	ferritin heavy chain 1(FTH1)	Homo sapiens
+NM_002032	ferritin heavy chain 1(FTH1)	Homo sapiens
+BC016857	ferritin heavy chain 1(FTH1)	Homo sapiens
+NM_002823	prothymosin, alpha(PTMA)	Homo sapiens
+AF348514	prothymosin, alpha(PTMA)	Homo sapiens
+NM_001099285	prothymosin, alpha(PTMA)	Homo sapiens
+M17017	C-X-C motif chemokine ligand 8(CXCL8)	Homo sapiens
+NM_000584	C-X-C motif chemokine ligand 8(CXCL8)	Homo sapiens
+NM_000700	annexin A1(ANXA1)	Homo sapiens
+BC035993	annexin A1(ANXA1)	Homo sapiens
+AK291328	S100 calcium binding protein A8(S100A8)	Homo sapiens
+NM_002964	S100 calcium binding protein A8(S100A8)	Homo sapiens
+BC137090	MACC1, MET transcriptional regulator(MACC1)	Homo sapiens
+NM_182762	MACC1, MET transcriptional regulator(MACC1)	Homo sapiens
+NM_020357	PEST proteolytic signal containing nuclear protein(PCNP)	Homo sapiens
+AB037675	PEST proteolytic signal containing nuclear protein(PCNP)	Homo sapiens
+BC022001	PEST proteolytic signal containing nuclear protein(PCNP)	Homo sapiens
+AK092912	influenza virus NS1A binding protein(IVNS1ABP)	Homo sapiens
+NM_006469	influenza virus NS1A binding protein(IVNS1ABP)	Homo sapiens
+BC067739	influenza virus NS1A binding protein(IVNS1ABP)	Homo sapiens
+AK292431	influenza virus NS1A binding protein(IVNS1ABP)	Homo sapiens
+DQ443528	influenza virus NS1A binding protein(IVNS1ABP)	Homo sapiens
+AF205218	influenza virus NS1A binding protein(IVNS1ABP)	Homo sapiens
+AK023123	influenza virus NS1A binding protein(IVNS1ABP)	Homo sapiens
+BX649183	influenza virus NS1A binding protein(IVNS1ABP)	Homo sapiens
+BX648273	influenza virus NS1A binding protein(IVNS1ABP)	Homo sapiens
+AF006082	ARP2 actin related protein 2 homolog(ACTR2)	Homo sapiens
+NM_001005386	ARP2 actin related protein 2 homolog(ACTR2)	Homo sapiens
+NM_005722	ARP2 actin related protein 2 homolog(ACTR2)	Homo sapiens
+BC056883	breast carcinoma amplified sequence 4(BCAS4)	Homo sapiens
+S73591	thioredoxin interacting protein(TXNIP)	Homo sapiens
+NM_006472	thioredoxin interacting protein(TXNIP)	Homo sapiens
+BC104660	RRN3 homolog, RNA polymerase I transcription factor(RRN3)	Homo sapiens
+AK304856	RRN3 homolog, RNA polymerase I transcription factor(RRN3)	Homo sapiens
+NM_018427	RRN3 homolog, RNA polymerase I transcription factor(RRN3)	Homo sapiens
+NM_001042466	prosaposin(PSAP)	Homo sapiens
+NM_002778	prosaposin(PSAP)	Homo sapiens
+NM_001042465	prosaposin(PSAP)	Homo sapiens
+M60257	prosaposin(PSAP)	Homo sapiens
+AF379624	neuroblastoma breakpoint family member 1(NBPF1)	Homo sapiens
+BC034418	neuroblastoma breakpoint family member 1(NBPF1)	Homo sapiens
+NM_001104587	schlafen family member 11(SLFN11)	Homo sapiens
+NM_001104590	schlafen family member 11(SLFN11)	Homo sapiens
+NM_001104588	schlafen family member 11(SLFN11)	Homo sapiens
+AL831964	schlafen family member 11(SLFN11)	Homo sapiens
+BC052586	schlafen family member 11(SLFN11)	Homo sapiens
+NM_001104589	schlafen family member 11(SLFN11)	Homo sapiens
+NM_152270	schlafen family member 11(SLFN11)	Homo sapiens
+BC004245	ferritin light chain(FTL)	Homo sapiens
+NM_000146	ferritin light chain(FTL)	Homo sapiens
+NM_018955	ubiquitin B(UBB)	Homo sapiens
+BC000379	ubiquitin B(UBB)	Homo sapiens
+AB209782	ubiquitin C(UBC)	Homo sapiens
+NM_021009	ubiquitin C(UBC)	Homo sapiens
+BC081561	H3 histone family member 3A(H3F3A)	Homo sapiens
+NM_002107	H3 histone family member 3A(H3F3A)	Homo sapiens
+BC038989	H3 histone family member 3A(H3F3A)	Homo sapiens
+BX538238	metastasis associated lung adenocarcinoma transcript 1 (non-protein coding)(MALAT1)	Homo sapiens
+AF001542	metastasis associated lung adenocarcinoma transcript 1 (non-protein coding)(MALAT1)	Homo sapiens
+NR_002819	metastasis associated lung adenocarcinoma transcript 1 (non-protein coding)(MALAT1)	Homo sapiens
+BC009716	C-C motif chemokine ligand 2(CCL2)	Homo sapiens
+NM_002982	C-C motif chemokine ligand 2(CCL2)	Homo sapiens
+BC060762	phosphodiesterase 8A(PDE8A)	Homo sapiens
+NM_002605	phosphodiesterase 8A(PDE8A)	Homo sapiens
+NM_173454	phosphodiesterase 8A(PDE8A)	Homo sapiens
+NM_001008540	C-X-C motif chemokine receptor 4(CXCR4)	Homo sapiens
+AF147204	C-X-C motif chemokine receptor 4(CXCR4)	Homo sapiens
+NM_003467	C-X-C motif chemokine receptor 4(CXCR4)	Homo sapiens
+NM_004633	interleukin 1 receptor type 2(IL1R2)	Homo sapiens
+BC039031	interleukin 1 receptor type 2(IL1R2)	Homo sapiens
+BC065194	lysophosphatidylcholine acyltransferase 3(LPCAT3)	Homo sapiens
+NM_005768	lysophosphatidylcholine acyltransferase 3(LPCAT3)	Homo sapiens
+NM_001142678	anoctamin 6(ANO6)	Homo sapiens
+BC098410	anoctamin 6(ANO6)	Homo sapiens
+NM_001025356	anoctamin 6(ANO6)	Homo sapiens
+NM_001142679	anoctamin 6(ANO6)	Homo sapiens
+BC007673	lymphocyte cytosolic protein 1(LCP1)	Homo sapiens
+AK097174	lymphocyte cytosolic protein 1(LCP1)	Homo sapiens
+BC010271	lymphocyte cytosolic protein 1(LCP1)	Homo sapiens
+AK093568	lymphocyte cytosolic protein 1(LCP1)	Homo sapiens
+J02923	lymphocyte cytosolic protein 1(LCP1)	Homo sapiens
+AK300556	lymphocyte cytosolic protein 1(LCP1)	Homo sapiens
+AK097275	lymphocyte cytosolic protein 1(LCP1)	Homo sapiens
+NM_002298	lymphocyte cytosolic protein 1(LCP1)	Homo sapiens
+M22300	lymphocyte cytosolic protein 1(LCP1)	Homo sapiens
+AK292890	lymphocyte cytosolic protein 2(LCP2)	Homo sapiens
+NM_005565	lymphocyte cytosolic protein 2(LCP2)	Homo sapiens
+S63912	heterogeneous nuclear ribonucleoprotein A3 pseudogene 1(HNRNPA3P1)	Homo sapiens
+NR_002726	heterogeneous nuclear ribonucleoprotein A3 pseudogene 1(HNRNPA3P1)	Homo sapiens
+AK301136	fms related tyrosine kinase 3 ligand(FLT3LG)	Homo sapiens
+L03558	cystatin B(CSTB)	Homo sapiens
+NM_000100	cystatin B(CSTB)	Homo sapiens
+NM_006432	NPC intracellular cholesterol transporter 2(NPC2)	Homo sapiens
+BC002532	NPC intracellular cholesterol transporter 2(NPC2)	Homo sapiens
+NM_198395	G3BP stress granule assembly factor 1(G3BP1)	Homo sapiens
+BC006997	G3BP stress granule assembly factor 1(G3BP1)	Homo sapiens
+NM_005754	G3BP stress granule assembly factor 1(G3BP1)	Homo sapiens
+NM_032182	family with sequence similarity 175 member B(FAM175B)	Homo sapiens
+BC008999	family with sequence similarity 175 member B(FAM175B)	Homo sapiens
+AK054850	neuroblastoma breakpoint family member 11(NBPF11)	Homo sapiens
+AL832622	neuroblastoma breakpoint family member 11(NBPF11)	Homo sapiens
+AK302413	neuroblastoma breakpoint family member 11(NBPF11)	Homo sapiens
+BC136292	neuroblastoma breakpoint family member 11(NBPF11)	Homo sapiens
+NM_001101663	neuroblastoma breakpoint family member 11(NBPF11)	Homo sapiens
+BX648497	neuroblastoma breakpoint family member 11(NBPF11)	Homo sapiens
+NM_183372	neuroblastoma breakpoint family member 11(NBPF11)	Homo sapiens
+U02020	nicotinamide phosphoribosyltransferase(NAMPT)	Homo sapiens
+NM_005746	nicotinamide phosphoribosyltransferase(NAMPT)	Homo sapiens
+NM_001195643	dihydrofolate reductase 2(DHFR2)	Homo sapiens
+U51240	lysosomal protein transmembrane 5(LAPTM5)	Homo sapiens
+NM_006762	lysosomal protein transmembrane 5(LAPTM5)	Homo sapiens
+BC107889	thymosin beta 10(TMSB10)	Homo sapiens
+NM_021103	thymosin beta 10(TMSB10)	Homo sapiens
+AK294944	neuroblastoma breakpoint family member 26(NBPF26)	Homo sapiens
+BC026093	ADP ribosylation factor like GTPase 15(ARL15)	Homo sapiens
+NM_019087	ADP ribosylation factor like GTPase 15(ARL15)	Homo sapiens
+BC009718	epithelial membrane protein 3(EMP3)	Homo sapiens
+NM_001425	epithelial membrane protein 3(EMP3)	Homo sapiens
+AK027429	eukaryotic translation initiation factor 3 subunit L(EIF3L)	Homo sapiens
+BC001634	vesicle associated membrane protein 8(VAMP8)	Homo sapiens
+NM_003761	vesicle associated membrane protein 8(VAMP8)	Homo sapiens
+NM_001912	cathepsin L(CTSL)	Homo sapiens
+NM_145918	cathepsin L(CTSL)	Homo sapiens
+AK055599	cathepsin L(CTSL)	Homo sapiens
+NM_001040058	secreted phosphoprotein 1(SPP1)	Homo sapiens
+NM_001040060	secreted phosphoprotein 1(SPP1)	Homo sapiens
+AK295491	secreted phosphoprotein 1(SPP1)	Homo sapiens
+NM_000582	secreted phosphoprotein 1(SPP1)	Homo sapiens
+NR_028494	LYR motif containing 2(LYRM2)	Homo sapiens
+NR_028495	LYR motif containing 2(LYRM2)	Homo sapiens
+NR_028493	LYR motif containing 2(LYRM2)	Homo sapiens
+NM_020466	LYR motif containing 2(LYRM2)	Homo sapiens
+BC104668	LYR motif containing 2(LYRM2)	Homo sapiens
+NR_002935	fatty acid binding protein 5 pseudogene 3(FABP5P3)	Homo sapiens
+AK128061	TATA-box binding protein associated factor, RNA polymerase I subunit D(TAF1D)	Homo sapiens
+NR_003242	profilin 1 pseudogene 2(PFN1P2)	Homo sapiens
+BC137262	profilin 1 pseudogene 2(PFN1P2)	Homo sapiens
+BC005118	eukaryotic translation initiation factor 1(EIF1)	Homo sapiens
+NM_005801	eukaryotic translation initiation factor 1(EIF1)	Homo sapiens
+NM_007010	DExD-box helicase 52(DDX52)	Homo sapiens
+BC041785	DExD-box helicase 52(DDX52)	Homo sapiens
+BC070202	cytoskeleton regulator RNA(CYTOR)	Homo sapiens
+NR_024204	cytoskeleton regulator RNA(CYTOR)	Homo sapiens
+NR_024205	cytoskeleton regulator RNA(CYTOR)	Homo sapiens
+NR_024206	cytoskeleton regulator RNA(CYTOR)	Homo sapiens
+BC064832	solute carrier family 16 member 6(SLC16A6)	Homo sapiens
+NM_004694	solute carrier family 16 member 6(SLC16A6)	Homo sapiens
+NM_001174166	solute carrier family 16 member 6(SLC16A6)	Homo sapiens
+AB209534	heat shock protein 90 beta family member 1(HSP90B1)	Homo sapiens
+NM_003299	heat shock protein 90 beta family member 1(HSP90B1)	Homo sapiens
+BX538309	MAM domain containing 2(MAMDC2)	Homo sapiens
+AK075017	ubiquitin conjugating enzyme E2 J2(UBE2J2)	Homo sapiens
+BC015557	CD68 molecule(CD68)	Homo sapiens
+NM_001251	CD68 molecule(CD68)	Homo sapiens
+NM_001040059	CD68 molecule(CD68)	Homo sapiens
+BC010952	peptidase inhibitor 3(PI3)	Homo sapiens
+NM_002638	peptidase inhibitor 3(PI3)	Homo sapiens
+AL050141	neuroblastoma breakpoint family member 10(NBPF10)	Homo sapiens
+AF379616	neuroblastoma breakpoint family member 10(NBPF10)	Homo sapiens
+NM_001039703	neuroblastoma breakpoint family member 10(NBPF10)	Homo sapiens
+AY894565	neuroblastoma breakpoint family member 10(NBPF10)	Homo sapiens
+AK000726	neuroblastoma breakpoint family member 10(NBPF10)	Homo sapiens
+NM_004355	CD74 molecule(CD74)	Homo sapiens
+NM_001025158	CD74 molecule(CD74)	Homo sapiens
+NM_001025159	CD74 molecule(CD74)	Homo sapiens
+BC018726	CD74 molecule(CD74)	Homo sapiens
+NM_176895	phospholipid phosphatase 1(PLPP1)	Homo sapiens
+BC015403	tropomyosin 3(TPM3)	Homo sapiens
+NM_153649	tropomyosin 3(TPM3)	Homo sapiens
+NM_001780	CD63 molecule(CD63)	Homo sapiens
+M59907	CD63 molecule(CD63)	Homo sapiens
+BC020602	NOP2/Sun RNA methyltransferase family member 3(NSUN3)	Homo sapiens
+NM_022072	NOP2/Sun RNA methyltransferase family member 3(NSUN3)	Homo sapiens
+	BC003537		
+	AF339086		
+	AK097322		
+	Z36796		
+	AK095270		
+	L20086		
+	U27608		
+	AL359334		
+	BC024102		
+	NR_036430		
+	AK075323		
+	AF391805		
+	AK124495		
+	M28016		
+	AK074742		
+	GQ141863		
+	AK290388		
+	AF339085		
+	U83416		
+	X02494		
+	X15759		
+	AF284753		
+	AF418978		
+	L33923		
+	BX647414		
+	AK128886		
+	BX648054		
+	BC046137		
+	L08441		
+	AK074482		
+	AK026170		
+	AK125561		
+	AK130153		
+	AK000624		

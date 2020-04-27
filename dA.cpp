@@ -15,6 +15,7 @@ https://github.com/yusugomori/DeepLearning
 #include <fstream>
 #include <sstream>
 #include <math.h>
+#include <ctime>
 #include <vector>
 #include "dA.h"
 using namespace std;
@@ -78,10 +79,12 @@ dA::dA(int size, int n_v, int n_h, double **w, double *hb, double *vb) {
 }
 
 dA::~dA() {
-  for(int i=0; i<n_hidden; i++) delete[] W[i];
-  delete[] W;
-  delete[] hbias;
-  delete[] vbias;
+    /* */
+    for(int i=0; i<n_hidden; i++) delete[] W[i];
+    delete[] W;
+    delete[] hbias;
+    delete[] vbias;
+   
 }
 
 void dA::get_corrupted_input(int *x, int *tilde_x, double p) {
@@ -202,59 +205,6 @@ void dA::train(double *x, double lr, double corruption_level) {
 }
 
 
-void dA::train(int *x, double lr, double corruption_level) {
-  int *tilde_x = new int[n_visible];
-
-  
-  //sgd
-  double *y = new double[n_hidden];
-  double *z = new double[n_visible];
-  // vbias
-  // hbias 
-  double *L_vbias = new double[n_visible];
-  double *L_hbias = new double[n_hidden];
-
-  double p = 1 - corruption_level;
-
-  get_corrupted_input(x, tilde_x, p);
-  get_hidden_values(tilde_x, y);
-  get_reconstructed_input(y, z);
-
-  //get neg-likelihood
-  
-
-  
-    for(int i=0; i< n_visible; i++){
-        L_vbias[i] = x[i] - z[i];
-        neglik += x[i]*log(z[i])+(1-x[i])*log(1-z[i]);
-        vbias[i] += lr * L_vbias[i] / N;
-
-    }
-
-    for(int i=0; i<n_hidden; i++) {
-      L_hbias[i] = 0;
-      for(int j=0; j<n_visible; j++) {
-          L_hbias[i] += W[i][j] * L_vbias[j];
-      }
-      L_hbias[i] *= y[i] * (1 - y[i]);
-
-      hbias[i] += lr * L_hbias[i] / N;
-    }
-
-  // W
-    for(int i=0; i<n_hidden; i++) {
-        for(int j=0; j<n_visible; j++) {
-            W[i][j] += lr * (L_hbias[i] * tilde_x[j] + L_vbias[j] * y[i]) / N;
-        }
-    }
-  
-  delete[] L_hbias;
-  delete[] L_vbias;
-  delete[] z;
-  delete[] y;
-  delete[] tilde_x;
-}
-
 void dA::reconstruct(int *x, double *z) {
   double *y = new double[n_hidden];
 
@@ -290,7 +240,7 @@ void usage(char* prog){
 
 int main(int argc, char* argv[]) {
     //test_dA();
-    char* input;
+    char* input=NULL;
     //string input=string("/home2/sl2373/data4dA.txt");
     unsigned int nrow=112;
     unsigned int ncol=22148;
@@ -325,7 +275,7 @@ int main(int argc, char* argv[]) {
         }
     }
 
-    if (nrow < 20 | lr >1 | lr < 0 | err < 0 | err > 1 | p > 1 | p < 0 | ncol < 0 | nrow < 0){
+    if (nrow < 20 | lr >1 | lr < 0 | err < 0 | err > 1 | p > 1 | p < 0 | ncol < 0 | nrow < 0 | (!input)){
         usage(argv[0]);
         exit(1);
         
@@ -356,7 +306,8 @@ int main(int argc, char* argv[]) {
     ifstream ifs;
     ifs.open(input);
     int train_idx=0, test_idx=0;
-    
+    cout << "Randomize" << endl;
+    srand(time(NULL));
     while(getline(ifs,line)){
         double pp= uniform(0.0,1.0);
         bool test_flag=false;
@@ -367,7 +318,7 @@ int main(int argc, char* argv[]) {
         istringstream ss(line);
         //vector<double> expr;
         int colidx=0;
-        
+        cout << pp <<",";
         if (train_idx >= train_row){
             test_flag=true;
         }
@@ -389,8 +340,8 @@ int main(int argc, char* argv[]) {
             train_idx++;
         }
     }
-
     ifs.close();
+    cout << endl;
     cout << "Reading data done..., start trainning"<< endl;
     //
     dA da(train_row, n_visible,n_hidden, NULL, NULL, NULL);
@@ -410,10 +361,18 @@ int main(int argc, char* argv[]) {
             da.train(train_X[i], lr, err);
         }
 
-        //test
-        da2.W= da.W; // n_visible x n_hidden  
-        da2.hbias = da.hbias; // n_Hidden
-        da2.vbias = da.vbias; // n_visible
+ 
+        for (int m =0; m< n_hidden;m++){
+            da2.hbias[m] = da.hbias[m];
+            for (int n=0; n< n_visible; n++){
+                da2.W[m][n]= da.W[m][n];
+                if(m==0){
+                    da2.vbias[n]=da.vbias[n];
+                }
+            }
+        }
+
+
         da2.neglik=0.0;
         for (int i=0; i < test_row; i++){
             double *y = new double[n_hidden];
@@ -484,7 +443,6 @@ int main(int argc, char* argv[]) {
     fclose(wfs);
     
 
-    
-    
+
     return 0;
 }
