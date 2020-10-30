@@ -12,6 +12,7 @@ library(pROC)
 library(glmnet)
 library(e1071)
 library(fgsea)
+library(limma)
 
 load('data.RData')
 
@@ -23,6 +24,7 @@ idx.non.ribosomal = (probe.id %in% probes.ribosomal == FALSE)
 wt.non.ribosomal = wt[,idx.non.ribosomal]
 
 # Top and bottom-weighted genes in Hsig
+cat("Selecting top-weighted genes\n")
 top.gene = list()
 top.probe = list()
 top.gene.GO = list()
@@ -129,26 +131,15 @@ plot_rf_performance <- function(x, y, path=NULL, main=NULL, add=F, col="red"){
   plot(result.roc, col=col,main=main, add=add, print.auc=T)
 }
 
-###################### Prediction of TEA clusters ######################
-### TEA-related DEGs
-tea1_deg_probe <- as.character(read.table("data/tea_degs/tea1_degs_id.txt")$V1)
-tea3_deg_probe <- as.character(read.table("data/tea_degs/tea3_degs_id.txt")$V1)
-tea_deg = unique(c(tea1_deg_probe, tea3_deg_probe))
-
-tea_1and3_id = c(which(tea=="TEA1"), which(tea=="TEA3"))
-t.tea = as.factor(as.numeric(tea[tea_1and3_id])==3)
-
-rf_performance(h.sig[tea_1and3_id, ], t.tea)
-rf_performance(h.var[tea_1and3_id, ], t.tea)
-rf_performance(x[tea_1and3_id, ], t.tea)
-
 ###################### Prediction of severity ######################
+cat("Running limma for severity-related DEGs\n")
 sev_sub_id = c(which(sev=="MILD"), which(sev=="SEVERE"))
 sev_sub = as.factor(as.character(sev[sev_sub_id]))
 
 t.sev =  as.factor(as.numeric(sev[sev_sub_id])==3)
 
 ### Select severity-related genes based on random forest importance
+cat("Selecting genes based on random forest importance\n")
 gene.imp = data.frame(n=rep(0,length(x[1,])))
 rownames(gene.imp) = colnames(x)
 
@@ -174,6 +165,7 @@ imp.probes = rownames(gene.imp)[order(gene.imp.mean)[(N.feat-49):N.feat]]
 top.imp.probes = rownames(gene.imp)[order(gene.imp.mean)[(N.feat-9):N.feat]]
 
 # Plot importance
+cat("Plotting random forest performance\n")
 plot(density(gene.imp.mean))
 
 pdf("Figures/top.probes.importance.pdf", width=10, height=4)
@@ -188,43 +180,26 @@ text(bp, -0.5, srt = 60, adj= 1, xpd = TRUE, labels = GS[imp.probes], cex=0.8)
 dev.off()
 
 ### Select severity-related DEGs
-group_deg_top <- function(dat, label, c1, c2, cutoff=50){
-  names = rownames(dat)
-  pval = c()
-  dat1 = dat[,(label==c1)]
-  dat2 = dat[,(label==c2)]
-  for(i in seq(1, nrow(dat))){
-    exp1 = dat1[i,]
-    exp2 = dat2[i,]
-    tt = t.test(exp1, exp2)
-    pval = c(pval, tt$p.value)
-  }
-  pval = order(pval, decreasing = FALSE)
-  deg = names[pval[1:cutoff]]
-  return(deg)
-}
+sev_ids = ((sev=='MILD')+(sev=='SEVERE')>0)
+dat_sev = dat[,non.ctrl][,sev_ids]
+fac = factor(as.numeric(sev[sev_ids]))
 
-sev_deg = group_deg_top(dat, sev, 'MILD', 'SEVERE', cutoff=50)
+fit = lmFit(dat_sev, design=model.matrix(~ fac))
+fit = eBayes(fit)
+
+fit_toptable = topTable(fit, number = 50, coef=2)
+sev_deg = rownames(fit_toptable)[fit_toptable$adj.P.Val<0.1]
 
 ### Compare performance
-rf_performance(t(dat[sev_deg, sev_sub_id]), t.sev)
-rf_performance(x[sev_sub_id, imp.probes], t.sev)
-rf_performance(h.sig[sev_sub_id, ], t.sev)
-rf_performance(h.var[sev_sub_id, ], t.sev)
-rf_performance(x[sev_sub_id, ], t.sev)
-
-# Compare with random
-rf_rand = rep(0,10)
-for(i in seq(1,10)){
-  rand.probes = sample(colnames(x),50)
-  rf_rand[i] = rf_performance(x[sev_sub_id, rand.probes], t.sev)
-}
-mean(rf_rand)
+#rf_performance(t(dat[sev_deg, sev_sub_id]), t.sev)
+#rf_performance(x[sev_sub_id, imp.probes], t.sev)
+#rf_performance(h.sig[sev_sub_id, ], t.sev)
+#rf_performance(h.var[sev_sub_id, ], t.sev)
+#rf_performance(x[sev_sub_id, ], t.sev)
 
 
 ### Plot ROC
-plot_rf_performance(t(dat[tea_deg, sev_sub_id]), t.sev, path="roc.pdf", col="blue")
-plot_rf_performance(t(dat[sev_deg, sev_sub_id]), t.sev, col="yellow")
+plot_rf_performance(t(dat[,non.ctrl][sev_deg, sev_sub_id]), t.sev, path="Figures/roc.pdf", col="blue")
 plot_rf_performance(h.sig[sev_sub_id, ], t.sev, col="purple", add=T)
 plot_rf_performance(h.var[sev_sub_id, ], t.sev, col="green", add=T)
 plot_rf_performance(x[sev_sub_id, ], t.sev, col="cyan", add=T)
